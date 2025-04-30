@@ -1,7 +1,7 @@
-package com.example.ExampleMod.mixins;
+package io.github.spicylemon2623.SimplyEmoting.mixins;
 
 
-import com.example.ExampleMod.ExampleMod;
+import io.github.spicylemon2623.SimplyEmoting.ExampleMod;
 import finalforeach.cosmicreach.gamestates.MainMenu;
 import finalforeach.cosmicreach.lwjgl3.Lwjgl3Launcher;
 import org.spongepowered.asm.mixin.Mixin;

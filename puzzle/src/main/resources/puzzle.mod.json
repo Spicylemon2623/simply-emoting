@@ -12,13 +12,7 @@
   },
   "entrypoints": {
     "client_init": [
-      "com.example.ExampleMod.ExampleModClient"
-    ],
-    "init": [
-      "com.example.ExampleMod.ExampleMod"
-    ],
-    "preInit": [
-      "com.example.ExampleMod.ExampleModPreinit"
+      "io.github.spicylemon2623.SimplyEmoting.SimplyEmotingClient"
     ]
   },
   "mixins": [
